@@ -86,5 +86,5 @@ Plataforma de atendimento veterinário domiciliar, com levantamento de requisito
 Estou aberto a oportunidades como **Desenvolvedor Java Júnior** e a trocas de experiência com outros devs. Me chame no [LinkedIn](https://www.linkedin.com/in/marcelo-lallo-84a73518b) ou por e-mail: **filhomarcelo645@gmail.com**.
 
 <p align="center">
-  <i>"Código limpo hoje, menos dor de cabeça amanhã."</i> ☕
+  <i>"Em constante evolução, assim como os programas."</i> 
 </p>
